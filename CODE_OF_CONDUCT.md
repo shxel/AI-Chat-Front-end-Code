@@ -69,7 +69,7 @@ This Code of Conduct applies to:
 
 ### Reporting Violations
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders at:  
-📧 **conduct@crypticoder.shxel**
+📧 **conduct@AI-Chat-Front-end-Code.shxel**
 
 All complaints will be **reviewed promptly and fairly**, with respect for the privacy and security of the reporter.
 
